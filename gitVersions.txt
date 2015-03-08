@@ -1,0 +1,6 @@
+evothings-studio: a60349844430acaac91bc29be5b1916c9c285c3d
+evothings-client: 4f6d398a6ed8dafd639382d358e5017ca82d9780
+evothings-doc: e9fa236a07ed6318c759d8c1df38984191db16f2
+evothings-examples: d703a83d7a0388989c274848167d999cb132fb5c
+HyperReload: 1d45b1e2b5491aa78ab181f8ff5e5465043ed9d8
+cordova-ble: 4aaf7cd353a86aca9915427f1bd7221bc09ffefa
